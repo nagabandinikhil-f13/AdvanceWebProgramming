@@ -1,0 +1,10 @@
+hello all 
+commands :
+move to respected file location,
+git clone gitrepolink
+git init 
+git touch
+git add .
+git commit -m "message"
+git push -u origin main
+
